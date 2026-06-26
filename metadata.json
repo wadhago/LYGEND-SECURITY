@@ -1,0 +1,6 @@
+{
+  "name": "Lygend Camp Security Manager",
+  "description": "Comprehensive personnel tracking, security gate operations, ID badge printer, visitor logs, and camp POB analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
